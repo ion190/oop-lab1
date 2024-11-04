@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab4235c5-c02c-4891-8ebc-653e54a16562" name="Changes" comment="">
+    <list default="true" id="ab4235c5-c02c-4891-8ebc-653e54a16562" name="Changes" comment="made improvements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/ClassifyIntoUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/ClassifyIntoUniverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/Individual.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/Individual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/ReaderJSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/ReaderJSON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/Universe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/java/oop/practice/View.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/src/main/resources/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/src/main/resources/input.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/target/classes/input.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/ClassifyIntoUniverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/ClassifyIntoUniverse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/Individual.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/Individual.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/View.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/hitchhiker_individuals.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/lord_of_the_rings_individuals.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/marvel_individuals.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/star_wars_individuals.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/ReaderJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-classification/target/classes/oop/practice/Universe.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,8 +140,19 @@
       <workItem from="1728833629987" duration="12211000" />
       <workItem from="1728984745602" duration="954000" />
       <workItem from="1728985714136" duration="313000" />
-      <workItem from="1729077460885" duration="11234000" />
+      <workItem from="1729077460885" duration="11576000" />
+      <workItem from="1729488305188" duration="2137000" />
+      <workItem from="1729492635132" duration="161000" />
     </task>
+    <task id="LOCAL-00001" summary="made improvements">
+      <option name="closed" value="true" />
+      <created>1729103992326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729103992326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +173,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="made improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="made improvements" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

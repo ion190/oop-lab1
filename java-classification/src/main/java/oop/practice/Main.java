@@ -4,8 +4,7 @@ import java.util.List;
 
 public class Main {
   public static void main(String[] args) {
-    ReaderJSON reader = new ReaderJSON();
-    List<Individual> individuals = reader.getIndividuals("java-classification/src/main/resources/input.json");
+    List<Individual> individuals = ReaderJSON.getIndividuals("java-classification/src/main/resources/input.json");
 
     for (Individual individual : individuals) {
       String universe = ClassifyIntoUniverse.check(individual);

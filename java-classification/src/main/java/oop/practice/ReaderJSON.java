@@ -9,13 +9,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ReaderJSON {
-    public List<Individual> getIndividuals(String path) {
-        ObjectMapper mapper = new ObjectMapper();
+    private static ObjectMapper mapper = new ObjectMapper();
+
+    public static List<Individual> getIndividuals(String path) {
         List<Individual> individualsList = new ArrayList<>();
 
         try {
             File inputFile = new File(path);
-            JsonNode jsonData = mapper.readTree(inputFile);
+            Individual jsonData = mapper.readValue(inputFile, Individual.class);
 
             for (JsonNode node : jsonData.get("data")) {
                 Individual individual = new Individual();
