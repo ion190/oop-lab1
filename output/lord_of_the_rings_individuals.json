@@ -1,0 +1,64 @@
+[
+  {
+    "id": 5,
+    "humanoid": true,
+    "planet": "Earth",
+    "age": 451,
+    "traits": [
+      "BLONDE",
+      "POINTY_EARS"
+    ],
+    "classifiedUniverse": "Lord of the rings"
+  },
+  {
+    "id": 6,
+    "humanoid": true,
+    "planet": "Earth",
+    "age": 124,
+    "traits": [
+      "SHORT",
+      "BULKY"
+    ],
+    "classifiedUniverse": "Lord of the rings"
+  },
+  {
+    "id": 12,
+    "humanoid": true,
+    "planet": null,
+    "age": 7523,
+    "traits": null,
+    "classifiedUniverse": "Lord of the rings"
+  },
+  {
+    "id": 13,
+    "humanoid": null,
+    "planet": "Earth",
+    "age": null,
+    "traits": [
+      "SHORT",
+      "BULKY"
+    ],
+    "classifiedUniverse": "Lord of the rings"
+  },
+  {
+    "id": 19,
+    "humanoid": true,
+    "planet": "Earth",
+    "age": 451,
+    "traits": [
+      "BLONDE",
+      "TALL"
+    ],
+    "classifiedUniverse": "Lord of the rings"
+  },
+  {
+    "id": 20,
+    "humanoid": true,
+    "planet": null,
+    "age": null,
+    "traits": [
+      "BULKY"
+    ],
+    "classifiedUniverse": "Lord of the rings"
+  }
+]
