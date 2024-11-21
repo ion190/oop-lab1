@@ -1,1 +1,62 @@
-[{"id":0,"planet":"Kashyyyk","age":253,"traits":["HAIRY","TALL"],"classifiedUniverse":null,"isHumanoid":false},{"id":3,"planet":null,"age":253,"traits":["HAIRY","TALL"],"classifiedUniverse":null,"isHumanoid":false},{"id":10,"planet":"Endor","age":0,"traits":null,"classifiedUniverse":null,"isHumanoid":false},{"id":12,"planet":"Endor","age":34,"traits":["HAIRY","SHORT"],"classifiedUniverse":null,"isHumanoid":false},{"id":13,"planet":"Kashyyyk","age":352,"traits":["HAIRY","TALL"],"classifiedUniverse":null,"isHumanoid":false},{"id":17,"planet":null,"age":154,"traits":["BLONDE","TALL"],"classifiedUniverse":null,"isHumanoid":true},{"id":20,"planet":"Endor","age":22,"traits":null,"classifiedUniverse":null,"isHumanoid":false}]
+[
+  {
+    "id": 0,
+    "humanoid": false,
+    "planet": "Kashyyyk",
+    "age": 253,
+    "traits": [
+      "HAIRY",
+      "TALL"
+    ],
+    "classifiedUniverse": "Star Wars"
+  },
+  {
+    "id": 1,
+    "humanoid": false,
+    "planet": "Endor",
+    "age": 34,
+    "traits": [
+      "HAIRY",
+      "SHORT"
+    ],
+    "classifiedUniverse": "Star Wars"
+  },
+  {
+    "id": 7,
+    "humanoid": null,
+    "planet": "Kashyyyk",
+    "age": 352,
+    "traits": [
+      "HAIRY",
+      "TALL"
+    ],
+    "classifiedUniverse": "Star Wars"
+  },
+  {
+    "id": 8,
+    "humanoid": false,
+    "planet": "Endor",
+    "age": 22,
+    "traits": null,
+    "classifiedUniverse": "Star Wars"
+  },
+  {
+    "id": 14,
+    "humanoid": false,
+    "planet": null,
+    "age": 253,
+    "traits": [
+      "HAIRY",
+      "TALL"
+    ],
+    "classifiedUniverse": "Star Wars"
+  },
+  {
+    "id": 15,
+    "humanoid": null,
+    "planet": "Endor",
+    "age": null,
+    "traits": null,
+    "classifiedUniverse": "Star Wars"
+  }
+]
